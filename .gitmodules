@@ -1,0 +1,3 @@
+[submodule "Tool_Table_Recognition"]
+	path = Tool_Table_Recognition
+	url = git@github.com:seaswander/Tool_Table_Recognition.git
